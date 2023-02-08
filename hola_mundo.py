@@ -4,7 +4,7 @@ def exam_grade(score):
 	elif score >= 70:
 		grade = "Pasas"
 	else:
-		grade = "No pasas"
+		grade = "Truenas"
 	return grade
 
 print(exam_grade(65)) # Should be Pass
