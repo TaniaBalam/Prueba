@@ -1,7 +1,7 @@
 def exam_grade(score):
 	if score > 95:
 		grade = "Buen promedio"
-	elif score >= 60:
+	elif score >= 70:
 		grade = "Pasas"
 	else:
 		grade = "No pasas"
