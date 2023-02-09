@@ -1,4 +1,2 @@
 # Prueba
-Es una prueba
-No sirve
-Pruebas
+Pruebas del curso Introducción a Git y GitHub
